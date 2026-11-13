@@ -74,10 +74,6 @@ The test account allows you to explore the application with regular user permiss
 | Bootstrap 5 | Responsive interface |
 | Popper.js | UI component positioning |
 
-## Screenshots
-
-<!-- Add screenshots of Threadly here -->
-
 ## Local Setup
 
 Threadly was developed and tested locally using XAMPP.
