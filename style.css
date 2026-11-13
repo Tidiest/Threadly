@@ -1,0 +1,30 @@
+body
+{
+    margin: 0px;
+    background-color: #12131b;
+    color: #D7DADC;
+    line-height: 1.5;
+}
+
+.black-bg
+{
+    background-color: #12131b;
+    color: #D7DADC;
+    line-height: 1.5;
+}
+
+.lblack-bg
+{
+    background-color: #18191f;
+    color: #D7DADC;
+    line-height: 1.5;
+}
+
+.header
+{
+    border-bottom: 1px solid #333;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    position: sticky;
+    z-index: 1000;
+    top:0;
+}
