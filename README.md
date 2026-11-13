@@ -91,9 +91,8 @@ Threadly was developed and tested locally using XAMPP.
 3. Start Apache and MySQL.
 4. Create a database named `forum2pr`.
 5. Import `forum2pr.sql` using phpMyAdmin.
-6. Copy `config.example.php` to `config.php`.
-7. Update the database connection settings in `config.php`.
-8. Open the application:
+6. If necessary, update the database connection settings in `config.php` to match your local MySQL configuration.
+7. Open the application:
 
    `http://localhost/Threadly/show_thread.php`
 
