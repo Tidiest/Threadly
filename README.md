@@ -110,6 +110,11 @@ This project demonstrates practical experience with server-side PHP development,
 
 It is not intended for production deployment without additional security improvements.
 
+## Project Information
+
+- **Type:** Individual school project
+- **Development period:** 2025
+
 ## Author
 
 **Oleksandr Krotov**
